@@ -1,11 +1,11 @@
 <template>
   <div>
-    <cz-button-group>
-        <cz-button icon="houtuishangyige">上一页</cz-button>
-        <cz-button icon="qianjinxiayige" icon-position="right">下一页</cz-button>
-    </cz-button-group>
-    <cz-button-group>
-      <cz-button icon="sousuo"></cz-button><cz-button icon="sousuo"></cz-button><cz-button icon="sousuo"></cz-button>
-    </cz-button-group>
+    <lk-button-group>
+        <lk-button icon="houtuishangyige">上一页</lk-button>
+        <lk-button icon="qianjinxiayige" icon-position="right">下一页</lk-button>
+    </lk-button-group>
+    <lk-button-group>
+      <lk-button icon="sousuo"></lk-button><lk-button icon="sousuo"></lk-button><lk-button icon="sousuo"></lk-button>
+    </lk-button-group>
   </div>
 </template>

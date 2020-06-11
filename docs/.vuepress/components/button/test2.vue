@@ -1,6 +1,6 @@
 <template>
   <div>
-      <cz-button icon="sousuo">搜索</cz-button>
-      <cz-button icon="sousuo"></cz-button>
+      <lk-button icon="sousuo">搜索</lk-button>
+      <lk-button icon="sousuo"></lk-button>
   </div>
 </template>

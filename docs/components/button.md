@@ -14,12 +14,12 @@
 ::: slot highlight
 ```html
 <div>
-    <cz-button>默认按钮</cz-button>
-    <cz-button type="primary">主要按钮</cz-button>
-    <cz-button type="success">成功按钮</cz-button>
-    <cz-button type="info">信息按钮</cz-button>
-    <cz-button type="warning">警告按钮</cz-button>
-    <cz-button type="danger">危险按钮</cz-button>
+    <lk-button>默认按钮</lk-button>
+    <lk-button type="primary">主要按钮</lk-button>
+    <lk-button type="success">成功按钮</lk-button>
+    <lk-button type="info">信息按钮</lk-button>
+    <lk-button type="warning">警告按钮</lk-button>
+    <lk-button type="danger">危险按钮</lk-button>
 </div>
 ```
 :::
@@ -41,8 +41,8 @@
 ::: slot highlight
 ```html
 <div>
-    <cz-button icon="edit">搜索</cz-button>
-    <cz-button icon="edit"></cz-button>
+    <lk-button icon="edit">搜索</lk-button>
+    <lk-button icon="edit"></lk-button>
 </div>
 ```
 :::
@@ -63,7 +63,7 @@
 
 ::: slot highlight
 ```html
-<cz-button :loading="true">加载中</cz-button>
+<lk-button :loading="true">加载中</lk-button>
 ```
 :::
 </demo-block>
@@ -82,18 +82,18 @@
 
 ::: slot highlight
 ```html
-<cz-button-group>
-    <cz-button type="primary" icon="houtuishangyige">上一页</cz-button>
-    <cz-button type="primary" icon="qianjinxiayige" icon-position="right">下一页</cz-button>
-</cz-button-group>
+<lk-button-group>
+    <lk-button type="primary" icon="houtuishangyige">上一页</lk-button>
+    <lk-button type="primary" icon="qianjinxiayige" icon-position="right">下一页</lk-button>
+</lk-button-group>
 
-<cz-button-group>
-    <cz-button icon="edit"></cz-button>
-    <cz-button icon="edit"></cz-button>
-    <cz-button icon="edit"></cz-button>
-    <cz-button icon="edit"></cz-button>
-    <cz-button icon="edit"></cz-button>
-</cz-button-group>
+<lk-button-group>
+    <lk-button icon="edit"></lk-button>
+    <lk-button icon="edit"></lk-button>
+    <lk-button icon="edit"></lk-button>
+    <lk-button icon="edit"></lk-button>
+    <lk-button icon="edit"></lk-button>
+</lk-button-group>
 ```
 :::
 </demo-block>

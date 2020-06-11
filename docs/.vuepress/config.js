@@ -1,6 +1,6 @@
 module.exports = {
-    base: '/czui-doc/',
-    title: 'cz-ui', // 设置网站标题
+    base: '/lkui-doc/',
+    title: 'lk-ui', // 设置网站标题
     description: '单组件与基于Element的业务组件', //描述
     dest: './build', // 设置输出目录
     port: 1234, //端口

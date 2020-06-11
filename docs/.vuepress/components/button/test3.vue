@@ -1,5 +1,5 @@
 <template>
   <div>
-      <cz-button :loading="true">加载中</cz-button>
+      <lk-button :loading="true">加载中</lk-button>
   </div>
 </template>
